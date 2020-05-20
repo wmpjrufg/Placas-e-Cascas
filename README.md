@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-* [Link](https://nbviewer.jupyter.org/github/wmpjrufg/placas/blob/master/notebooks/Teste%20Fa%20-%20rosenbrock.ipynb)
+* [Notebook Teste Aula 01](https://nbviewer.jupyter.org/github/wmpjrufg/placas/blob/master/notebooks/Teste%20Fa%20-%20rosenbrock.ipynb)
 
 ```markdown
 Syntax highlighted code block
@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Notebook Teste Aula 01](url) and ![Image](src)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
