@@ -1,42 +1,29 @@
-## Joao Lindao
+# Teoria Placas e Cascas
 
-You can use the [editor on GitHub](https://github.com/wmpjrufg/placas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Teoria Placas e Cascas** Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis. Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Vehicula non. Ut sed ex eros. Vivamus sit amet nibh non tellus tristique interdum.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Viva Forevis aptent taciti sociosqu ad litora torquent. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus. Manduma pindureta quium dia nois paga.
 
-### Markdown
+### [Table of Contents](link)
+- A Equação da placa e sua solução analítica
+### [1. Conceitos iniciais de placas e cascas](link)
+- [1.1 Dedução da equação da placa  ](link)
+- [1.2 Formulação de equilíbrio de forças para solução](link)
+- [1.3 Aplicações das condições de contorno](link)
+- [1.4 Funções periódicas e suas aplicações na teoria das placas](link)
+- [1.5 Solução de Navier para placas retangulares](link)
+- [1.6 Solução de Levy para placas retangulares](link)
+- [1.7 Aplicações da teoria de placas para dimensionamento de lajes de concreto](link)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-* [Notebook Teste Aula 01](https://nbviewer.jupyter.org/github/wmpjrufg/placas/blob/master/notebooks/Teste%20Fa%20-%20rosenbrock.ipynb)
 
-imagem:
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+### [Appendix A.](l)
+- [A.1 APEN 1](l)
+- [A.2 APEN BLA BLA 2](l)
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Note on the use of Python.** Mussum Ipsum, cacilds vidis litro abertis. Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Casamentiss faiz malandris se pirulitá. Copo furadis é disculpa de bebadis, arcu quam euismod magna. Suco de cevadiss deixa as pessoas mais interessantis.
 
-- Bulleted
-- List
+**Licença de uso.** Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Interagi no mé, cursus quis, vehicula ac nisi. Quem num gosta di mim que vai caçá sua turmis!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wmpjrufg/placas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble wi
+**Agradecimentos.** Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Mé faiz elementum girarzis, nisi eros vermeio. Diuretics paradis num copo é motivis de denguis. Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl.
