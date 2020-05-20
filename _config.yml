@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+title: [Mudar o Titulo]
+description: [Pequena descrição do site bla bla bla...]
+
+logo: [https://github.com/wmpjrufg/Placas-e-Cascas/blob/master/imgs/logo.PNG?raw=true]
