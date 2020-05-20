@@ -9,6 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 * [Notebook Teste Aula 01](https://nbviewer.jupyter.org/github/wmpjrufg/placas/blob/master/notebooks/Teste%20Fa%20-%20rosenbrock.ipynb)
 
+imagem:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 ```markdown
 Syntax highlighted code block
 
