@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 
-title: [Mudar o Titulo]
+title: Mudar o Titulo
 description: [Pequena descrição do site bla bla bla...]
 
-logo: [imgs/logo.PNG]
+logo: /imgs/logo.PNG
